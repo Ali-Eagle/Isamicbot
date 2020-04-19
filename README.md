@@ -1,0 +1,2 @@
+# Isamicbot
+Islamicbot for Discord
